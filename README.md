@@ -2,8 +2,6 @@
 
 This is the source code for my personal portfolio website built using **Streamlit**. The website showcases my research publications, skills, and contact information, and provides a modern, interactive interface for visitors.
 
----
-
 ### 🌐 Website Overview
 
 The website includes the following sections:
@@ -30,8 +28,6 @@ The website includes the following sections:
 4. **Contact Information**
    - Provides my email, personal website, GitHub link, and location.
 
----
-
 ### 💻 Built With
 
 - [Python](https://www.python.org/)
@@ -40,16 +36,12 @@ The website includes the following sections:
 - HTML & CSS for custom styling
 - Bootstrap-inspired card designs for layout and visual appeal
 
----
-
 ### 🛠 Features
 
 - **Custom Dark Theme**: Uses a dark background with bright, modern colors for headings and cards.
 - **Interactive Data Table**: Scrollable publication table with dynamic ordering.
 - **Responsive Layout**: Column-based layout for profile and skills.
 - **Reusable Cards**: Modular card components for bio, skills, and publications.
-
----
 
 ### 📂 Project Structure
 
@@ -59,8 +51,6 @@ The website includes the following sections:
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 ```
-
----
 
 ## 🚀 How to Run Locally
 
